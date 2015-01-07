@@ -1,7 +1,8 @@
 granchat
 ========
 
-Help Hong Kong elderly community!
+Help Hong Kong's elderly community!
+<br>
 Hi! I'm Marsha, a high school student from Hong Kong. 
 We want to help people like my Grandma to connect with their families over the internet. Read more about us here: <a href="http://www.granchat.co">www.granchat.co</a>
 
